@@ -12,7 +12,9 @@ The reasons are:
 ## Usage
 
 Currently only support windows.
-
+```
+git clone --recursive https://github.com/uysalaltas/WebcamStream.git
+```
 Run `GenerateProject.bat` and open `WebcamStream.sln` in Visual Studio 2022. That's it.
 
 vendor folders contain 3th party libraries and tools (OpenCV, pramake).
