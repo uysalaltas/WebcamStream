@@ -30,7 +30,7 @@ project "WebcamStream"
 
 		-- 	libdirs 
 		-- 	{ 
-		-- 		"vendor/lib/opencv/debug"
+		-- 		"vendor/lib/opencv/debug_cv"
 		-- 	}
 
 		-- 	links 
@@ -52,7 +52,7 @@ project "WebcamStream"
 
 			libdirs 
 			{ 
-				"vendor/lib/opencv/release"
+				"vendor/lib/opencv/release_cv"
 			}
 
 			links 
